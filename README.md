@@ -58,7 +58,7 @@ This application provides a step-by-step interface for performing machine learni
 *Replace with your deployment link if applicable*
 
 **Live Demo:**
-
+https://mlfinance-gtmnrninhlaxnaffzwb969.streamlit.app/
 ---
 
 ## 🛠️ Features
@@ -100,7 +100,7 @@ This application provides a step-by-step interface for performing machine learni
 ---
 
 ## 📸 Demo / Screenshots
-*Replace placeholders with links to your actual demo video or screenshots*
+
 
 **Video Demo:**
 
@@ -108,6 +108,8 @@ This application provides a step-by-step interface for performing machine learni
 ![image](https://github.com/user-attachments/assets/42c5b4d4-539c-4b6a-b2b5-32a8fc601f92)
 ![image](https://github.com/user-attachments/assets/2d0d21cb-b8a5-4991-9349-acb3232a533a)
 ![image](https://github.com/user-attachments/assets/ce0b77fc-338a-4c2d-a897-1e2b7989ce79)
+![image](https://github.com/user-attachments/assets/5e8e7848-b8e4-431e-bc0c-bd806561e6b4)
+![image](https://github.com/user-attachments/assets/f12112ae-c77c-406e-84a3-f31f5acd9410)
 
 
 ---
