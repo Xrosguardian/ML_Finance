@@ -2,6 +2,8 @@
 
 A Streamlit application for interactive machine learning analysis on financial datasets.
 
+**Course Name:** AF3005 – Programming for Finance  
+**Instructor:** Dr. Usama Arshad 
 ---
 
 ## 📊 App Overview
