@@ -103,6 +103,10 @@ https://mlfinance-gtmnrninhlaxnaffzwb969.streamlit.app/
 
 **Video Demo:**
 
+
+https://github.com/user-attachments/assets/dd76e379-2f35-467b-a484-6d31f4678699
+
+
 **Application Screenshots:**
 ![image](https://github.com/user-attachments/assets/42c5b4d4-539c-4b6a-b2b5-32a8fc601f92)
 ![image](https://github.com/user-attachments/assets/2d0d21cb-b8a5-4991-9349-acb3232a533a)
