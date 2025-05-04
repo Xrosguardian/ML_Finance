@@ -209,7 +209,7 @@ if 'cluster_labels' not in st.session_state: # Added for K-Means labels
 
 # --- Sidebar ---
 with st.sidebar:
-    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNlZzMwYmZ0b2JqZzFqZ3Q2b3JqdjRmeWZpM3U5c3N0b3Z0NnZzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu7F84a834V43Di/giphy.gif", caption="Welcome to Financial ML!") # Finance GIF
+    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3a250N3c1b2w2aXl1M3N1eXN4M2p6N3NqZzRzN3c1b2w2aXl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n59dQcO9yaaaY/giphy.gif", caption="Welcome to Financial ML!")
     st.header("1. Load Data")
 
     data_load_option = st.radio("Choose Data Source:", ("Upload Kragle CSV", "Fetch Yahoo Finance"), key="data_source_radio")
