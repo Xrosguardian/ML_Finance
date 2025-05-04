@@ -55,7 +55,6 @@ This application provides a step-by-step interface for performing machine learni
 ---
 
 ## 🌐 Deployment (Optional)
-*Replace with your deployment link if applicable*
 
 **Live Demo:**
 https://mlfinance-gtmnrninhlaxnaffzwb969.streamlit.app/
