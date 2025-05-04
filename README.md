@@ -15,6 +15,8 @@ This application provides a step-by-step interface for performing machine learni
 -   **Evaluation:** Evaluate model performance using relevant metrics (MSE, R2, Accuracy, Confusion Matrix, Silhouette Score, Inertia).
 -   **Visualization:** Visualize results using interactive Plotly charts (Actual vs. Predicted, Feature Importance, Cluster Plots).
 -   **Downloads:** Download the trained model (including scaler and feature names) and prediction/clustering results.
+  
+![image](https://github.com/user-attachments/assets/4b50d827-2b66-4a94-9ffb-703d1ac0d897)
 
 ---
 
@@ -103,6 +105,9 @@ This application provides a step-by-step interface for performing machine learni
 **Video Demo:**
 
 **Application Screenshots:**
+![image](https://github.com/user-attachments/assets/42c5b4d4-539c-4b6a-b2b5-32a8fc601f92)
+![image](https://github.com/user-attachments/assets/2d0d21cb-b8a5-4991-9349-acb3232a533a)
+![image](https://github.com/user-attachments/assets/ce0b77fc-338a-4c2d-a897-1e2b7989ce79)
 
 
 ---
